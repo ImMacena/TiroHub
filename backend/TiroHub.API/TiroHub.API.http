@@ -1,0 +1,6 @@
+@TiroHub.API_HostAddress = http://localhost:5054
+
+GET {{TiroHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
